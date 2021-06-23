@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todo-drag-drop/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/todo-drag-drop/static/js/main.a0a37fef.chunk.js",
+    "main.js.map": "/todo-drag-drop/static/js/main.a0a37fef.chunk.js.map",
+    "runtime-main.js": "/todo-drag-drop/static/js/runtime-main.4e985b2d.js",
+    "runtime-main.js.map": "/todo-drag-drop/static/js/runtime-main.4e985b2d.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/todo-drag-drop/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.f8d38eb6.chunk.js": "/todo-drag-drop/static/js/2.f8d38eb6.chunk.js",
+    "static/js/2.f8d38eb6.chunk.js.map": "/todo-drag-drop/static/js/2.f8d38eb6.chunk.js.map",
+    "static/js/3.c04fe924.chunk.js": "/todo-drag-drop/static/js/3.c04fe924.chunk.js",
+    "static/js/3.c04fe924.chunk.js.map": "/todo-drag-drop/static/js/3.c04fe924.chunk.js.map",
+    "index.html": "/todo-drag-drop/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/todo-drag-drop/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/todo-drag-drop/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f8d38eb6.chunk.js.LICENSE.txt": "/todo-drag-drop/static/js/2.f8d38eb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e985b2d.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.f8d38eb6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a0a37fef.chunk.js"
+  ]
+}
